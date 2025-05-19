@@ -1,1 +1,1 @@
-# dcmbench-data
+# DCM Benchmark Data Repository
