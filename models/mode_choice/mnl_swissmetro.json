@@ -63,9 +63,9 @@
     },
 
     "availability": {
-      "1": "TRAIN_AV_SP",
+      "1": "TRAIN_AV",
       "2": "SM_AV",
-      "3": "CAR_AV_SP"
+      "3": "CAR_AV"
     },
 
     "data_mapping": {
