@@ -77,9 +77,9 @@
         "SM_CO": "Swissmetro cost",
         "CAR_TT": "Car travel time",
         "CAR_CO": "Car cost",
-        "TRAIN_AV_SP": "Train availability for SP",
+        "TRAIN_AV": "Train availability",
         "SM_AV": "Swissmetro availability",
-        "CAR_AV_SP": "Car availability for SP"
+        "CAR_AV": "Car availability"
       }
     },
 
